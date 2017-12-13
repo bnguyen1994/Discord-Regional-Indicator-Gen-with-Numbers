@@ -5,6 +5,7 @@ Simple program to convert standard alphanumerical characters to Regional Indicat
 
 ### Compile ###
 ```bash
+git clone https://github.com/carpathianslaughter/Discord-Regional-Indicator-Gen-with-Numbers.git
 make
 mv txt2rgn /usr/bin/
 ```
