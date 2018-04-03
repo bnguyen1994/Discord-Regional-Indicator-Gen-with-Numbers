@@ -1,7 +1,10 @@
 # Discord-Regional-Indicator-Gen-with-Numbers #
 
 ### Overview ###
-Simple program to convert standard alphanumerical characters to Regional Indicators for Discord
+Simple program to convert standard alphanumerical characters to Regional Indicators for Discord.
+
+### Motivation ###
+To annoy my friends on Discord.
 
 ### Compile ###
 ```bash
